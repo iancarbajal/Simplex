@@ -1,0 +1,11 @@
+name: pl
+channels:
+  - defaults
+dependencies:
+  - sympy
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+    - ipykernel
